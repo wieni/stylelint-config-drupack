@@ -13,6 +13,7 @@ module.exports = {
     "block-closing-brace-newline-after": null,
     "block-opening-brace-space-before": null,
     "color-named": "never",
+    "color-hex-length": "long",
     "declaration-block-semicolon-newline-before": "never-multi-line",
     "declaration-empty-line-before": null,
     "declaration-colon-newline-after": null,
